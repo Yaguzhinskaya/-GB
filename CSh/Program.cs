@@ -5,7 +5,7 @@
 // [“Russia”, “Denmark”, “Kazan”] → []
 
 
-Console.Write("Введите массив данных через ',': ");
+/*Console.Write("Введите массив данных через ',': ");
 string strLine = Console.ReadLine();
 string[] inArr = strLine.Split(",");
 string[] outArr = new string[0];
@@ -20,3 +20,4 @@ for (int i = 0; i < inArr.Length; i++)
 
 }
 Console.WriteLine($"[{string.Join(",", inArr)}]=>[{string.Join(",", outArr)}]");
+*/
